@@ -1,0 +1,9 @@
+*{
+padding: auto;
+margin: auto;
+}
+
+body{
+background-color: rgb(208, 167, 116);
+border: 5px solid blueviolet;
+}
